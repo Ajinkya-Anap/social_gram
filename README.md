@@ -54,7 +54,7 @@
   <ol>
     <li>Fork the repository.</li>
     <li>Create a new branch for your feature or bug fix:<br>
-      <code>git checkout -b feature/your-feature-name</code></li>
+      <code>git checkout -b feature/your-feature-name/new_feature</code></li>
     <li>Make your modifications and commit your changes:<br>
       <code>git commit -m "Add your commit message here"</code></li>
     <li>Push your changes to your forked repository:<br>
